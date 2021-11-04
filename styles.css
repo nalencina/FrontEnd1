@@ -1,0 +1,70 @@
+/* Imagen de perfil */
+.centrado {
+    text-align: center;
+    margin: 0 auto 100px auto;
+}
+
+h1 {
+    letter-spacing: 10px;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    font-size: 35;
+    text-align: center;
+    line-height: 50px;
+    color: #005677;
+    background-color: #C4C4C4;
+}
+
+/* este es para ponerle el circulo negro a las listas */
+h2.list {
+    list-style-type:circle;
+}
+
+/* listas que no tengan punto negro */
+.punto {
+    list-style-type: none;
+}
+
+/* este es el espacio que dejo debajo en cada parrafo */
+.espaciado {
+    padding-left: 80px;
+}
+
+h2 {
+font-family:"Times New Roman";
+font-size: 20px;
+font-style: normal;
+color: #005677;
+text-align: left;
+background-color: #C4C4C4;
+}
+
+/* aca para darle un estilo a la primera parte de dats personales */
+strong {
+    font-style: italic;
+}
+
+.test {
+    list-style: none;
+}
+
+#example {
+    text-align: left;
+}
+
+#final {
+    padding: auto;
+}
+
+footer#final p {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    background-color: #005677;
+    
+}
+
+#lk {
+    border:1px solid black;
+    display: inline-block;
+}
